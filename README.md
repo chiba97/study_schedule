@@ -25,6 +25,6 @@
 ## 〜2022年1月〜 
 
 ## Ruby
-* 実際にRubyを用いてアプリを作り、アウトプットしながら、先月学んだRubyの復習を行う
+* 実際にRubyを用いてプログラムを作り、アウトプットしながら、先月学んだRubyの復習を行う
 * (使用教材)[Techpit ドラクエ風ゲームプログラムを作ってみよう！](https://www.techpit.jp/courses/6)
 * [学習リポジトリ](https://github.com/chiba97/ruby_draque_app.git)
