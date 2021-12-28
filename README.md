@@ -8,7 +8,7 @@
 * [学習リポジトリ](https://github.com/chiba97/ruby_study.git)
 
 ## SQL
-* ポートフォリオの制作をしていてN+１問題を解決する時などにデータベースを理解する重要性を強く感じた
+* ポートフォリオの制作をしていて、N+１問題を解決する時などにデータベースを理解する重要性を強く感じた
 * (使用書籍)[スッキリわかるSQL入門](https://www.amazon.co.jp/%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%8F%E3%81%8B%E3%82%8BSQL%E5%85%A5%E9%96%80-%E7%AC%AC2%E7%89%88-%E3%83%89%E3%83%AA%E3%83%AB222%E5%95%8F%E4%BB%98%E3%81%8D-%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%B8%AD%E5%B1%B1%E6%B8%85%E5%96%AC/dp/4295005096/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3ZU9YRYYWJ63&keywords=%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%8F%E3%81%8B%E3%82%8Bsql%E5%85%A5%E9%96%80&qid=1638370183&sprefix=%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%2Caps%2C324&sr=8-1)
 
 ## リーダブルコード
@@ -23,6 +23,6 @@
 ## 〜2022年1月〜 
 
 ## Ruby
-* 実際にRubyを用いてプログラムを作り、アウトプットしながら、先月学んだRubyの復習を行う
+* 実際にRubyを用いてプログラムを作り、アウトプットしながら先月学んだRubyの復習を行う
 * (使用教材)[Techpit ドラクエ風ゲームプログラムを作ってみよう！](https://www.techpit.jp/courses/6)
 * [学習リポジトリ](https://github.com/chiba97/ruby_draque_app.git)
