@@ -26,3 +26,8 @@
 * 実際にRubyを用いてプログラムを作り、アウトプットしながら先月学んだRubyの復習を行う
 * (使用教材)[Techpit ドラクエ風ゲームプログラムを作ってみよう！](https://www.techpit.jp/courses/6)
 * [学習リポジトリ](https://github.com/chiba97/ruby_draque_app.git)
+
+## Rails
+* Rubyの学習を踏まえて、簡単なアプリを作り復習する
+* (使用教材)[Udemy はじめてのRuby on Rails入門](https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp/)
+* [学習リポジトリ](https://github.com/chiba97/rails_study.git)
