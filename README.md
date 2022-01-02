@@ -31,7 +31,7 @@
 * Rubyの学習を踏まえて、簡単なアプリを作り復習する
 * (使用教材)[Udemy はじめてのRuby on Rails入門](https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp/)
 * [学習リポジトリ](https://github.com/chiba97/rails_study.git)
-* 流し読みをして大枠を理解
+* 流し読みをしながら大枠を理解する
 * (使用教材)[Ruby on Rails チュートリアル](https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning)
 
 ## JavaScript
