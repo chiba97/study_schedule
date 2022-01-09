@@ -32,9 +32,9 @@
 * (使用教材)[Udemy はじめてのRuby on Rails入門](https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp/)
 * [学習リポジトリ](https://github.com/chiba97/rails_study.git)
 
-## JavaScript
+## JavaScript(学習中)
 * (使用教材)[確かな力が身につくJavaScript「超」入門 第2版](https://www.amazon.co.jp/%E7%A2%BA%E3%81%8B%E3%81%AA%E5%8A%9B%E3%81%8C%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8FJavaScript%E3%80%8C%E8%B6%85%E3%80%8D%E5%85%A5%E9%96%80-%E7%AC%AC2%E7%89%88-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1/dp/4815601577/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2PQWVRBQ8TZXB&keywords=javascript&qid=1641024322&sprefix=javascript%2Caps%2C249&sr=8-6)
 * [学習リポジトリ](https://github.com/chiba97/JavaScript_study.git)
 
-## Linux
+## Linux（学習中）
 * (使用教材)[Linux 標準教科書](https://linuc.org/textbooks/linux/)
