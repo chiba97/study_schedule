@@ -33,8 +33,14 @@
 * [学習リポジトリ](https://github.com/chiba97/rails_study.git)
 
 ## JavaScript(学習中)
-* (使用教材)[確かな力が身につくJavaScript「超」入門 第2版](https://www.amazon.co.jp/%E7%A2%BA%E3%81%8B%E3%81%AA%E5%8A%9B%E3%81%8C%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8FJavaScript%E3%80%8C%E8%B6%85%E3%80%8D%E5%85%A5%E9%96%80-%E7%AC%AC2%E7%89%88-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1/dp/4815601577/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2PQWVRBQ8TZXB&keywords=javascript&qid=1641024322&sprefix=javascript%2Caps%2C249&sr=8-6)
+* (使用書籍)[確かな力が身につくJavaScript「超」入門 第2版](https://www.amazon.co.jp/%E7%A2%BA%E3%81%8B%E3%81%AA%E5%8A%9B%E3%81%8C%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8FJavaScript%E3%80%8C%E8%B6%85%E3%80%8D%E5%85%A5%E9%96%80-%E7%AC%AC2%E7%89%88-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1/dp/4815601577/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2PQWVRBQ8TZXB&keywords=javascript&qid=1641024322&sprefix=javascript%2Caps%2C249&sr=8-6)
 * [学習リポジトリ](https://github.com/chiba97/JavaScript_study.git)
 
 ## Linux（学習中）
-* (使用教材)[Linux 標準教科書](https://linuc.org/textbooks/linux/)
+* (使用書籍)[Linux 標準教科書](https://linuc.org/textbooks/linux/)
+
+## 基本情報技術者(学習予定)
+* (使用書籍)[イメージ&クレバー方式でよくわかる 栢木先生の基本情報技術者教室](https://www.amazon.co.jp/%E4%BB%A4%E5%92%8C04%E5%B9%B4-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8-%E3%82%AF%E3%83%AC%E3%83%90%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%A7%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B-%E6%A0%A2%E6%9C%A8%E5%85%88%E7%94%9F%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E6%95%99%E5%AE%A4-%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/dp/4297123932/ref=sr_1_1_sspa?crid=1KAT64IALM26Q&keywords=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85&qid=1641716340&sprefix=%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1%2Caps%2C297&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSU9KQ0hRMDREVVQ2JmVuY3J5cHRlZElkPUEwNzQyNDU2MVlUM1dFODU1Q0pWWSZlbmNyeXB0ZWRBZElkPUExVjhHTFgxN1RQSE9IJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+
+## Vue.js（学習予定）
+* (使用教材)[Udemy 超Vue.js 2 完全パック](https://www.udemy.com/course/vue-js-complete-guide/)
